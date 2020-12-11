@@ -36,13 +36,13 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: "<strong>Use templates to get started faster</strong>"
+  content: Writing code from scratch is hard. With Seamless Cloud, you get access
+    to the library of code templates - each one of them solves a particular automation
+    problem. Just copy them to your account and modify it however you like.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2020/12/11/sc-new-workspace-templates-a.png"
+    alt_text: Templates
 - template: content-feature
   block: feature-1
   media_alignment: Right
