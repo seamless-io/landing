@@ -3,7 +3,7 @@ title: run Python code on schedule
 author: Seamless Cloud
 email: ''
 description: ''
-baseurl: "/landing"
+baseurl: "/"
 url: ''
 defaults:
 - scope:
