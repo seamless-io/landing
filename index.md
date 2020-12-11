@@ -70,6 +70,32 @@ page_sections:
     this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
     Blocks and preview them as you go along.</p></li></ol>
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Seamless Cloud vs Apache Airflow
+    content: You can automate routine tasks by running code on Apache Airflow. It
+      is a highly sophisticated tool, used heavily in complex data pipelines. It is
+      an overkill for code that automates small tasks. You need to read quite a lot
+      of documentation before you can get started. You also need to set up a server
+      and support it.
+    slug: ''
+  col_2:
+    headline: Seamless Cloud vs AWS Lambda
+    content: You can automate routine tasks by running code as Lambdas in AWS. It
+      is not super hard to get started once you've read the documentation. AWS is
+      very flexible, which comes at a price - to monitor and debug the tasks, you
+      need to have an in-depth DevOps knowledge of other AWS services.
+    slug: ''
+  col_3:
+    headline: Seamless Cloud vs Cron Jobs
+    content: You can, if you wish, do everything from scratch. If you can write a
+      cron job and run it on a server, you can automate anything. But, as with all
+      solutions "from scratch" comes a lot of work. You need to set up a server and
+      start a cron job manually. You have to keep the cron job running (which is one
+      of the most time-consuming tasks over time since it includes setting up monitoring,
+      log streaming, etc.)
+    slug: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Ukraine
