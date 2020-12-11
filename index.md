@@ -71,5 +71,9 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 
 ---
