@@ -28,6 +28,10 @@ page_sections:
     image: "/uploads/2020/12/11/sc-my-jobs-jobs-list-a.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  cta_2:
+    enabled_2: true
+    url_2: http://app.seamlesscloud.io/
+    button_text_2: Sign Up for Free
 - template: content-feature
   block: feature-1
   media_alignment: Left
