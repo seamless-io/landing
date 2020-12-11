@@ -47,3 +47,16 @@ fields:
   - type: text
     name: button_text
     label: Button text
+  - name: enabled_2
+    type: boolean
+    label: Enabled 2
+  - name: url2
+    type: text
+    config:
+      required: false
+    label: url2
+  - name: button_text_2
+    type: text
+    config:
+      required: false
+    label: Button text 2
