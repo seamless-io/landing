@@ -16,7 +16,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: Seamless Cloud
-  content: An open-source user-friendly platform to run Python scripts on a schedule.
+  content: An open-source user-friendly platform to run Python code on a schedule.
   cta:
     enabled: true
     url: https://github.com/seamless-io/seamless-web
