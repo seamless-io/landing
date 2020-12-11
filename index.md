@@ -47,13 +47,14 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  headline: "<strong>Forget about the infrastructure</strong>"
+  content: Get the full power of a programming language without the need to spend
+    time setting up the servers. Run the code in the cloud, set scheduled execution
+    - all in a simple web UI. When you're ready to go deeper and more technical -
+    use our CLI.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
+    image: "/uploads/2020/12/11/sc-job-updated-view-a.png"
+    alt_text: Infrastructure
 - template: 1-column-text
   block: one-column-1
   slug: responsive
