@@ -22,9 +22,9 @@ page_sections:
     url: https://github.com/seamless-io/seamless-web
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2020/12/11/sc-my-jobs-jobs-list-a.png"
     alt_text: Product Shot
-  background_image: "/uploads/2020/12/11/sc-my-jobs-jobs-list-a.png"
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
