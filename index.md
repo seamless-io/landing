@@ -21,6 +21,9 @@ page_sections:
     enabled: true
     url: https://github.com/seamless-io/seamless-web
     button_text: 'See on GitHub '
+    enabled_2: false
+    url2: ''
+    button_text_2: ''
   image:
     image: "/uploads/2020/12/11/sc-my-jobs-jobs-list-a.png"
     alt_text: Product Shot
@@ -71,9 +74,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
-- template: signup-bar
-  block: cta-bar
-  content: ''
-  email_recipient: ''
 
 ---
