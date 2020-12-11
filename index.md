@@ -62,11 +62,6 @@ page_sections:
   content: To get a grasp on what's possible to run on Seamless Cloud, please check
     out <a href="https://blog.seamlesscloud.io/" title="">our blog</a>. You can also
     get pieces of code in the <a href="" title="">"templates" repo</a>.
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
@@ -77,6 +72,6 @@ page_sections:
     Blocks and preview them as you go along.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: Made with ❤︎ in Ukraine
 
 ---
