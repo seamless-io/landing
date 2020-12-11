@@ -23,7 +23,7 @@ page_sections:
     button_text: 'See on GitHub '
     enabled_2: true
     url2: https://github.com/seamless-io/seamless-web
-    button_text_2: " See on GitHub "
+    button_text_2: test
   image:
     image: "/uploads/2020/12/11/sc-my-jobs-jobs-list-a.png"
     alt_text: Product Shot
