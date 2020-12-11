@@ -57,12 +57,11 @@ page_sections:
     alt_text: Infrastructure
 - template: 1-column-text
   block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
+  slug: templates
+  headline: Seamless Cloud Templates
+  content: To get a grasp on what's possible to run on Seamless Cloud, please check
+    out <a href="https://blog.seamlesscloud.io/" title="">our blog</a>. You can also
+    get pieces of code in the <a href="" title="">"templates" repo</a>.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
