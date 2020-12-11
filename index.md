@@ -58,7 +58,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   slug: templates
-  headline: Seamless Cloud Templates
+  headline: Code snippets
   content: To get a grasp on what's possible to run on Seamless Cloud, please check
     out <a href="https://blog.seamlesscloud.io/" title="">our blog</a>. You can also
     get pieces of code in the <a href="" title="">"templates" repo</a>.
