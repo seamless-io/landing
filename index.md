@@ -90,6 +90,6 @@ page_sections:
     slug: ''
 - template: simple-footer
   block: footer-1
-  content: Made in Ukraine
+  content: Contact me at andrey.oleksiuk@gmail.com
 
 ---
